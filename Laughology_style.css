@@ -1,10 +1,11 @@
 /* style sheet for laughology site*/
 
-body 	{background-image:url('Images/Laughology_background.jpg');background-size:100%;padding:0;font-family:verdana;margin:5px;color:white;}
+body 	{background-image:url('Images/Laughology_background.jpg');background-size:100%;padding:0;font-family:verdana;margin:0px;color:white;}
+p	{margin:10px;font-size:24px;}
 
 /*navigation banner*/
-.banner {padding-bottom:28px;background-color:rgb(145,156,177);color:rgb(250,255,232);}
-.banner2	{background-color:rgb(145,156,177);color:rgb(250,255,232);}
-.topnav		{background-color: rgba(300,300,300,.75);width:100%;}
+.banner {padding-bottom:28px;background-color:rgba(300,300,300,.85);color:rgb(0,0,0);}
+.banner2	{padding:10px;}
+.topnav		{background-color: rgba(300,300,300,.85);width:100%;padding: 30px 0px;}
 .topnav a	{text-align:center;padding:24px;color:black;text-decoration:none;font-size:120%;}
-.topnav a:hover {background-color:white; color:royalblue;padding: 4px 24px;}
+.topnav a:hover {background-color:white; color:royalblue;padding: 30px 24px;}
